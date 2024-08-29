@@ -1,4 +1,4 @@
-# Experiment-# Experiment 5
+# Experiment 5
 ## Theory
 Control structures in C++ allow for conditional execution of code blocks.
 ###
